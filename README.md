@@ -17,11 +17,12 @@
 
 Blockchainbird sponsors meaningful projects (see [Github repo](https://github.com/blockchainbird/spending) for more info). 
 
-2019 : https://smartcustody.btcpay.blockchaincommons.com
+2019 : https://smartcustody.btcpay.blockchaincommons.com - [Sponsorship](https://www.smartcustody.com/sponsors/)
 
-2020 :  Blockchaincommons.com general patronage
-        DIF project KERI basic sponsoring of initiator of the project
-        Blockchaincommons.com Torgap project
+2020 :\
+Blockchaincommons.com general [patronage](https://www.blockchaincommons.com/sponsors.html)\
+DIF project [KERI](https://github.com/decentralized-identity/keri); basic sponsoring of initiator of the project [Sponsorship](https://github.com/sponsors/SmithSamuelM)\
+Blockchaincommons.com Torgap project - [Sponsorship](https://github.com/BlockchainCommons/torgap#project-sponsors)
         
 2021 :  DIF project KERI?
 
